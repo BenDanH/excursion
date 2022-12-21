@@ -6,7 +6,7 @@ a {
     color: aquamarine;
 }
 
-p {
+h4 {
     color: grey;
 }
 
@@ -16,7 +16,7 @@ body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-footer h4 {
+.footer_logo {
     width: 100%;
-    text-align: end;
+    text-align: right;
 }
