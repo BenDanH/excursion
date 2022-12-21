@@ -1,19 +1,42 @@
+body{
+    background-color: black;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
 h1, h2 {
     color: white;
 }
 
 a {
     color: aquamarine;
+    font-size: 16px;
 }
 
 h4 {
     color: grey;
 }
 
-body{
-    background-color: black;
-    text-align: center;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+header h1 {
+    font-size: 50px;
+}
+
+.top {
+    font-size: 42px;
+    font-weight: 300;
+}
+
+.middle {
+    margin-bottom: 20px;
+}
+
+.middle h4 {
+    font-size: 21px;
+} 
+
+.bottom h2 {
+    font-size: 42px;
+    font-weight: 300;
 }
 
 .footer_logo {
