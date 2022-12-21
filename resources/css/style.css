@@ -1,0 +1,22 @@
+h1, h2 {
+    color: white;
+}
+
+a {
+    color: aquamarine;
+}
+
+p {
+    color: grey;
+}
+
+body{
+    background-color: black;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+footer h4 {
+    width: 100%;
+    text-align: end;
+}
